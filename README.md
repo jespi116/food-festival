@@ -10,6 +10,7 @@ This is a stylish mock up webpage of a food festival that contains info on the e
 * Webpack
 * Bootstrap
 * JQuery
+* Service Worker
 
 ## Screenshot
 ![](./Screenshot.png)
